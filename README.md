@@ -1,6 +1,6 @@
 # 🤖 Autonomous Local Multi-Agent Workspace
 
-A robust, high-performance **local multi-agent AI system** engineered for accelerated software development, technical research, and complex system automation. This environment runs 100% locally on a Lenovo Legion 5 (Intel i7 HX + RTX 5060), leveraging local compute resource optimization and hardware acceleration.
+A robust, high-performance **local multi-agent AI system** engineered for accelerated software development, technical research, and complex system automation. This environment runs 100% locally on my PC, leveraging local compute resource optimization and hardware acceleration.
 
 ## 🚀 System Architecture
 The workspace orchestrates a deterministic pipeline of three specialized autonomous agents operating within an iterative feedback and self-correction loop:
